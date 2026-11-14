@@ -1,19 +1,27 @@
 [
     {
+        "repo": "mlbv/LiteLoaderQQNT-Anti-Recall",
+        "branch": "master"
+    },
+    {
+        "repo": "mlbv/LiteLoaderQQNT-Change-Summary",
+        "branch": "main"
+    },
+    {
+        "repo": "mlbv/LL-plugin-list-viewer",
+        "branch": "main"
+    },
+    {
+        "repo": "mlbv/LiteLoaderQQNT-PGP-Encryption",
+        "branch": "master"
+    },
+    {
         "repo": "mo-jinran/chii-devtools",
         "branch": "v4"
     },
     {
         "repo": "MUKAPP/LiteLoaderQQNT-MSpring-Theme",
         "branch": "v4"
-    },
-    {
-        "repo": "PRO-2684/Scriptio",
-        "branch": "main"
-    },
-    {
-        "repo": "PRO-2684/transitio",
-        "branch": "main"
     },
     {
         "repo": "xiyuesaves/LiteLoaderQQNT-lite_tools",
@@ -26,10 +34,6 @@
     {
         "repo": "hacker-frok/LiteLoaderQQNT-Plugin-Nostalgic",
         "branch": "main"
-    },
-    {
-        "repo": "mlbv/LiteLoaderQQNT-Anti-Recall",
-        "branch": "master"
     },
     {
         "repo": "xh321/LiteLoaderQQNT-Media-Local-View",
@@ -104,23 +108,11 @@
         "branch": "v4"
     },
     {
-        "repo": "MisaLiu/LiteLoaderQQNT-QQCleaner",
-        "branch": "master"
-    },
-    {
-        "repo": "MisaLiu/LiteLoaderQQNT-Pangu",
-        "branch": "master"
-    },
-    {
         "repo": "2891954521/LiteLoaderQQNT-OneBotApi-JS",
         "branch": "main"
     },
     {
         "repo": "yuyumoko/LiteLoaderQQNT-Plugin-Eencode",
-        "branch": "main"
-    },
-    {
-        "repo": "PRO-2684/LiteLoaderQQNT-pURLfy",
         "branch": "main"
     },
     {
@@ -144,19 +136,11 @@
         "branch": "master"
     },
     {
-        "repo": "Server-WX/LiteLoaderQQNT-Translate",
-        "branch": "master"
-    },
-    {
         "repo": "adproqwq/LiteLoaderQQNT-AutoSendMessages",
         "branch": "main"
     },
     {
         "repo": "xinyihl/LiteLoaderQQNT-PluginInstaller",
-        "branch": "main"
-    },
-    {
-        "repo": "mlbv/LL-plugin-list-viewer",
         "branch": "main"
     },
     {
@@ -173,10 +157,6 @@
     },
     {
         "repo": "SyrieYume/starrail_ui",
-        "branch": "main"
-    },
-    {
-        "repo": "PRO-2684/protocio",
         "branch": "main"
     },
     {
@@ -272,10 +252,6 @@
         "branch": "master"
     },
     {
-        "repo": "mlbv/LiteLoaderQQNT-Change-Summary",
-        "branch": "main"
-    },
-    {
         "repo": "WJZ-P/LiteLoaderQQNT-Grab-RedBag",
         "branch": "main"
     },
@@ -308,10 +284,6 @@
         "branch": "main"
     },
     {
-        "repo": "mlbv/LiteLoaderQQNT-PGP-Encryption",
-        "branch": "master"
-    },
-    {
         "repo": "WongJingGitt/LiteLoaderQQNT-AutoForward",
         "branch": "master"
     },
@@ -329,10 +301,6 @@
     },
     {
         "repo": "scarletborder/LLQQNT-lib-moremenu",
-        "branch": "main"
-    },
-    {
-        "repo": "KyuharuTE/ark_sender",
         "branch": "main"
     },
     {
